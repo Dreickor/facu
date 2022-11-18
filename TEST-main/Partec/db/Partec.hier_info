@@ -1,0 +1,80 @@
+|Block1
+res0 <= inst24.DB_MAX_OUTPUT_PORT_TYPE
+clk => inst24.CLK
+clk => inst20.CLK
+clk => inst18.CLK
+clk => inst19.CLK
+clk => inst30.CLK
+clk => inst21.CLK
+clk => inst23.CLK
+clk => inst29.CLK
+clk => inst27.CLK
+clk => inst28.CLK
+clk => inst34.CLK
+clk => inst25.CLK
+clk => inst22.CLK
+clk => inst33.CLK
+clk => inst26.CLK
+clk => inst31.CLK
+a0 => inst20.DATAIN
+cin => inst18.DATAIN
+b0 => inst19.DATAIN
+res1 <= inst30.DB_MAX_OUTPUT_PORT_TYPE
+a1 => inst21.DATAIN
+b1 => inst23.DATAIN
+res2 <= inst29.DB_MAX_OUTPUT_PORT_TYPE
+a2 => inst27.DATAIN
+b2 => inst28.DATAIN
+res3 <= inst34.DB_MAX_OUTPUT_PORT_TYPE
+a3 => inst25.DATAIN
+b3 => inst22.DATAIN
+cout <= inst33.DB_MAX_OUTPUT_PORT_TYPE
+N <= inst34.DB_MAX_OUTPUT_PORT_TYPE
+z <= inst26.DB_MAX_OUTPUT_PORT_TYPE
+V <= inst31.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|Partec:inst
+a => res.IN0
+a => cout.IN0
+b => res.IN1
+b => cout.IN1
+cin => res.IN1
+cin => cout.IN1
+res <= res.DB_MAX_OUTPUT_PORT_TYPE
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|Partec:inst1
+a => res.IN0
+a => cout.IN0
+b => res.IN1
+b => cout.IN1
+cin => res.IN1
+cin => cout.IN1
+res <= res.DB_MAX_OUTPUT_PORT_TYPE
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|Partec:inst2
+a => res.IN0
+a => cout.IN0
+b => res.IN1
+b => cout.IN1
+cin => res.IN1
+cin => cout.IN1
+res <= res.DB_MAX_OUTPUT_PORT_TYPE
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|Partec:inst3
+a => res.IN0
+a => cout.IN0
+b => res.IN1
+b => cout.IN1
+cin => res.IN1
+cin => cout.IN1
+res <= res.DB_MAX_OUTPUT_PORT_TYPE
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+
+

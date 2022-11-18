@@ -1,0 +1,57 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do PARTEA_run_msim_gate_vhdl.do 
+# if {[file exists gate_work]} {
+# 	vdel -lib gate_work -all
+# }
+# vlib gate_work
+# vmap work gate_work
+# Copying C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {PARTEA_7_1200mv_85c_slow.vho}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package VITAL_Timing
+# -- Loading package VITAL_Primitives
+# -- Loading package cycloneiii_atom_pack
+# -- Loading package cycloneiii_components
+# -- Compiling entity Block1
+# -- Compiling architecture structure of Block1
+# 
+# vcom -93 -work work {C:/Users/Yo/Desktop/TEST/PARTEA/PARTEA1_testbench.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity PARTEA1_testbench
+# -- Compiling architecture behavior of PARTEA1_testbench
+# ** Warning: [4] C:/Users/Yo/Desktop/TEST/PARTEA/PARTEA1_testbench.vhd(25): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Yo/Desktop/TEST/PARTEA/PARTEA1_testbench.vhd(26): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Yo/Desktop/TEST/PARTEA/PARTEA1_testbench.vhd(27): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Yo/Desktop/TEST/PARTEA/PARTEA1_testbench.vhd(28): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# 
+# vsim -t 1ps +transport_int_delays +transport_path_delays -sdftyp /uut=PARTEA_7_1200mv_85c_vhd_slow.sdo -L altera -L cycloneiii -L gate_work -L work -voptargs="+acc"  PARTEA1_testbench
+# vsim +transport_int_delays +transport_path_delays -L altera -L cycloneiii -L gate_work -L work -voptargs=\"+acc\" -sdftyp /uut=PARTEA_7_1200mv_85c_vhd_slow.sdo -t 1ps PARTEA1_testbench 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.partea1_testbench(behavior)
+# SDF 10.1d Compiler 2012.11 Nov  2 2012
+# 
+# ** Warning: (vsim-3473) Component instance "uut : PARTEA" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /partea1_testbench File: C:/Users/Yo/Desktop/TEST/PARTEA/PARTEA1_testbench.vhd
+# Loading instances from PARTEA_7_1200mv_85c_vhd_slow.sdo
+# ** Error: (vsim-SDF-3250) PARTEA_7_1200mv_85c_vhd_slow.sdo(0): Failed to find INSTANCE '/uut'.
+# 
+# ** Error: (vsim-SDF-3894) : Errors occured in reading and resolving instances from compiled SDF file(s).
+# 
+# ** Error: (vsim-SDF-3250) PARTEA_7_1200mv_85c_vhd_slow.sdo(0): Failed to find INSTANCE '/uut'.
+# 
+# Error loading design
+# Error: Error loading design 
+#        Pausing macro execution 
+# MACRO ./PARTEA_run_msim_gate_vhdl.do PAUSED at line 12

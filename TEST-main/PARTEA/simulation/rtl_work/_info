@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Yo\Desktop\TEST\PARTEA\simulation
+Epartea
+Z1 w1668179132
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Yo\Desktop\TEST\PARTEA\simulation
+Z5 8C:/Users/Yo/Desktop/TEST/PARTEA/PARTEA.vhd
+Z6 FC:/Users/Yo/Desktop/TEST/PARTEA/PARTEA.vhd
+l0
+L4
+VgL0^S=SKQ=agmUe=gSM]a2
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1668186257.512000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/Yo/Desktop/TEST/PARTEA/PARTEA.vhd|
+Z10 !s107 C:/Users/Yo/Desktop/TEST/PARTEA/PARTEA.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 S3Cj1za>K4Mb_M9Pm4>7@2
+!i10b 1
+Abehavioral
+R2
+R3
+DEx4 work 6 partea 0 22 gL0^S=SKQ=agmUe=gSM]a2
+l12
+L10
+Vd0UoNW=f43R3]`8DM>XD30
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 oI173kX5ZcOff50J`;Ef81
+!i10b 1
+Epartea1_testbench
+Z13 w1668186207
+R2
+R3
+R4
+Z14 8C:/Users/Yo/Desktop/TEST/PARTEA/PARTEA1_testbench.vhd
+Z15 FC:/Users/Yo/Desktop/TEST/PARTEA/PARTEA1_testbench.vhd
+l0
+L3
+VP0U_[Sz2G4oA;MDCfVHOD2
+!s100 _9P9h5izQZ[TM9E@6NNMf2
+R7
+31
+!i10b 1
+Z16 !s108 1668186257.935000
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/Yo/Desktop/TEST/PARTEA/PARTEA1_testbench.vhd|
+Z18 !s107 C:/Users/Yo/Desktop/TEST/PARTEA/PARTEA1_testbench.vhd|
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 17 partea1_testbench 0 22 P0U_[Sz2G4oA;MDCfVHOD2
+l18
+L5
+V`<IPhXHOVP062EdX2ZoZl3
+!s100 KfXC7PZoZn4M86QYj9FoP2
+R7
+31
+!i10b 1
+R16
+R17
+R18
+R11
+R12

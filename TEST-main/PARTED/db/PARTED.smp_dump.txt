@@ -1,0 +1,10 @@
+
+State Machine - |PARTED|fstate
+Name fstate.state_bit_2 fstate.state_bit_1 fstate.state_bit_0 
+fstate.state1 0 0 0 
+fstate.state2 0 0 1 
+fstate.state3 0 1 1 
+fstate.state4 0 1 0 
+fstate.state5 1 1 0 
+fstate.state7 1 1 1 
+fstate.state6 1 0 1 

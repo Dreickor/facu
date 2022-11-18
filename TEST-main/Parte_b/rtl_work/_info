@@ -1,0 +1,114 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Yo\Desktop\TEST\Parte_b
+Eparteb
+Z1 w1668179132
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dC:\Users\Yo\Desktop\TEST\Parte_b
+Z7 8C:/Users/Yo/Desktop/TEST/Parte_b/PARTEB.vhd
+Z8 FC:/Users/Yo/Desktop/TEST/Parte_b/PARTEB.vhd
+l0
+L6
+VFkSN35QFzNd[;AChKKK?j0
+Z9 OV;C;10.1d;51
+31
+Z10 !s108 1668182730.881000
+Z11 !s90 -reportprogress|300|-93|-work|work|C:/Users/Yo/Desktop/TEST/Parte_b/PARTEB.vhd|
+Z12 !s107 C:/Users/Yo/Desktop/TEST/Parte_b/PARTEB.vhd|
+Z13 o-93 -work work -O0
+Z14 tExplicit 1
+!s100 h;0XHS=47@jo^9;oF2iV;0
+!i10b 1
+Affd
+R2
+R3
+R4
+R5
+DEx4 work 6 parteb 0 22 FkSN35QFzNd[;AChKKK?j0
+l13
+L12
+VV7[]Biki`c8No7_[PGLeG3
+R9
+31
+R10
+R11
+R12
+R13
+R14
+!s100 0JVFTI[acHR<XfV4Z@3Mm0
+!i10b 1
+Esum_comp
+Z15 w1668179133
+R4
+R5
+R6
+Z16 8C:/Users/Yo/Desktop/TEST/Parte_b/sum_comp.vhd
+Z17 FC:/Users/Yo/Desktop/TEST/Parte_b/sum_comp.vhd
+l0
+L4
+VQB9e`l6n2Dj2C<;cc^]1U1
+R9
+31
+Z18 !s108 1668182731.458000
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/Yo/Desktop/TEST/Parte_b/sum_comp.vhd|
+Z20 !s107 C:/Users/Yo/Desktop/TEST/Parte_b/sum_comp.vhd|
+R13
+R14
+!s100 gH8`L>7dnSA_KN23[ndaO1
+!i10b 1
+Acomportamiento
+R4
+R5
+DEx4 work 8 sum_comp 0 22 QB9e`l6n2Dj2C<;cc^]1U1
+l20
+L10
+VA@7omR]niaVNhW0YdPY^=0
+R9
+31
+R18
+R19
+R20
+R13
+R14
+!s100 PD]neLh2z8eBzLMK@U0Sk3
+!i10b 1
+Esum_comp_tb
+R15
+R4
+R5
+R6
+Z21 8C:/Users/Yo/Desktop/TEST/Parte_b/sum_comp_tb.vhd
+Z22 FC:/Users/Yo/Desktop/TEST/Parte_b/sum_comp_tb.vhd
+l0
+L4
+V4JN4;]<>_8:GQnVS0GE?_0
+!s100 ^C7ko0;JeS`Zg[J]JKUm73
+R9
+31
+!i10b 1
+Z23 !s108 1668182732.503000
+Z24 !s90 -reportprogress|300|-93|-work|work|C:/Users/Yo/Desktop/TEST/Parte_b/sum_comp_tb.vhd|
+Z25 !s107 C:/Users/Yo/Desktop/TEST/Parte_b/sum_comp_tb.vhd|
+R13
+R14
+Acomport
+R4
+R5
+DEx4 work 11 sum_comp_tb 0 22 4JN4;]<>_8:GQnVS0GE?_0
+l22
+L6
+V6f9iNC5aM3P?fX3BPMD[@2
+!s100 >32[=Y21eiKNkA<92]<mA3
+R9
+31
+!i10b 1
+R23
+R24
+R25
+R13
+R14

@@ -1,0 +1,26 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Usuario\OneDrive\Escritorio\Git Hub\TEST-main\Partec\simulation\modelsim
+vBlock1
+!i10b 1
+!s100 N3[E`?iJ7SAH_LDD7KcaR2
+IQN]2B00QP?gI;n@U;n5<S3
+V:9Y5j:9Rl1]fOPM;`ghHW1
+Z1 dC:\Users\Usuario\OneDrive\Escritorio\Git Hub\TEST-main\Partec\simulation\modelsim
+w1668459684
+8Partec.vo
+FPartec.vo
+L0 31
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1668459846.327000
+!s107 Partec.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|Partec.vo|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+. -O0
+n@block1

@@ -1,0 +1,65 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do PARTEB_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {C:/Users/Yo/Desktop/TEST/Parte_b/PARTEB.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity PARTEB
+# -- Compiling architecture ffd of PARTEB
+# vcom -93 -work work {C:/Users/Yo/Desktop/TEST/Parte_b/sum_comp.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity sum_comp
+# -- Compiling architecture comportamiento of sum_comp
+# 
+# vcom -93 -work work {C:/Users/Yo/Desktop/TEST/Parte_b/sum_comp_tb.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity sum_comp_tb
+# -- Compiling architecture comport of sum_comp_tb
+# ** Warning: [4] C:/Users/Yo/Desktop/TEST/Parte_b/sum_comp_tb.vhd(20): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Yo/Desktop/TEST/Parte_b/sum_comp_tb.vhd(41): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Yo/Desktop/TEST/Parte_b/sum_comp_tb.vhd(42): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Yo/Desktop/TEST/Parte_b/sum_comp_tb.vhd(43): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Yo/Desktop/TEST/Parte_b/sum_comp_tb.vhd(44): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Yo/Desktop/TEST/Parte_b/sum_comp_tb.vhd(45): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Yo/Desktop/TEST/Parte_b/sum_comp_tb.vhd(46): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Yo/Desktop/TEST/Parte_b/sum_comp_tb.vhd(47): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Yo/Desktop/TEST/Parte_b/sum_comp_tb.vhd(48): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# 
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cycloneiii -L rtl_work -L work -voptargs="+acc"  sum_comp_tb
+# vsim -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cycloneiii -L rtl_work -L work -voptargs=\"+acc\" -t 1ps sum_comp_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.sum_comp_tb(comport)
+# Loading work.sum_comp(comportamiento)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.parteb(ffd)
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# Break key hit 
+# Break in Process line__32 at C:/Users/Yo/Desktop/TEST/Parte_b/sum_comp_tb.vhd line 34

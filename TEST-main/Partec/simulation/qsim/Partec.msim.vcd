@@ -1,0 +1,209 @@
+$comment
+	File created using the following command:
+		vcd file Partec.msim.vcd -direction
+$end
+$date
+	Mon Nov 14 18:01:25 2022
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module Block1_vlg_vec_tst $end
+$var reg 1 ! a0 $end
+$var reg 1 " a1 $end
+$var reg 1 # a2 $end
+$var reg 1 $ a3 $end
+$var reg 1 % b0 $end
+$var reg 1 & b1 $end
+$var reg 1 ' b2 $end
+$var reg 1 ( b3 $end
+$var reg 1 ) cin $end
+$var reg 1 * clk $end
+$var wire 1 + cout $end
+$var wire 1 , N $end
+$var wire 1 - res0 $end
+$var wire 1 . res1 $end
+$var wire 1 / res2 $end
+$var wire 1 0 res3 $end
+$var wire 1 1 V $end
+$var wire 1 2 z $end
+$var wire 1 3 sampler $end
+$scope module i1 $end
+$var wire 1 4 gnd $end
+$var wire 1 5 vcc $end
+$var wire 1 6 unknown $end
+$var tri1 1 7 devclrn $end
+$var tri1 1 8 devpor $end
+$var tri1 1 9 devoe $end
+$var wire 1 : inst25~q $end
+$var wire 1 ; a3~input_o $end
+$var wire 1 < res0~output_o $end
+$var wire 1 = res1~output_o $end
+$var wire 1 > res2~output_o $end
+$var wire 1 ? res3~output_o $end
+$var wire 1 @ cout~output_o $end
+$var wire 1 A N~output_o $end
+$var wire 1 B z~output_o $end
+$var wire 1 C V~output_o $end
+$var wire 1 D clk~input_o $end
+$var wire 1 E clk~inputclkctrl_outclk $end
+$var wire 1 F a0~input_o $end
+$var wire 1 G inst20~q $end
+$var wire 1 H inst|res~0_combout $end
+$var wire 1 I inst24~q $end
+$var wire 1 J b1~input_o $end
+$var wire 1 K inst23~q $end
+$var wire 1 L cin~input_o $end
+$var wire 1 M inst18~feeder_combout $end
+$var wire 1 N inst18~q $end
+$var wire 1 O inst5~combout $end
+$var wire 1 P b0~input_o $end
+$var wire 1 Q inst19~feeder_combout $end
+$var wire 1 R inst19~q $end
+$var wire 1 S inst|cout~1_combout $end
+$var wire 1 T inst|cout~0_combout $end
+$var wire 1 U inst1|res~combout $end
+$var wire 1 V inst30~q $end
+$var wire 1 W b2~input_o $end
+$var wire 1 X inst28~feeder_combout $end
+$var wire 1 Y inst28~q $end
+$var wire 1 Z a2~input_o $end
+$var wire 1 [ inst27~q $end
+$var wire 1 \ a1~input_o $end
+$var wire 1 ] inst21~q $end
+$var wire 1 ^ inst1|cout~0_combout $end
+$var wire 1 _ inst2|res~0_combout $end
+$var wire 1 ` inst29~q $end
+$var wire 1 a b3~input_o $end
+$var wire 1 b inst22~feeder_combout $end
+$var wire 1 c inst22~q $end
+$var wire 1 d inst2|cout~0_combout $end
+$var wire 1 e inst3|res~0_combout $end
+$var wire 1 f inst34~q $end
+$var wire 1 g inst8~combout $end
+$var wire 1 h inst33~q $end
+$var wire 1 i inst9~combout $end
+$var wire 1 j inst26~q $end
+$var wire 1 k inst10~combout $end
+$var wire 1 l inst31~q $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1!
+1"
+0#
+0$
+1%
+0&
+0'
+0(
+0)
+0*
+0+
+0,
+0-
+0.
+0/
+00
+01
+02
+x3
+04
+15
+x6
+17
+18
+19
+0:
+0;
+0<
+0=
+0>
+0?
+0@
+0A
+0B
+0C
+0D
+0E
+1F
+0G
+0H
+0I
+0J
+0K
+0L
+0M
+0N
+0O
+1P
+1Q
+0R
+0S
+0T
+0U
+0V
+0W
+0X
+0Y
+0Z
+0[
+1\
+0]
+0^
+0_
+0`
+0a
+0b
+0c
+0d
+0e
+0f
+0g
+0h
+1i
+0j
+0k
+0l
+$end
+#250000
+1*
+1D
+1E
+03
+1]
+1R
+1G
+1j
+1U
+1T
+1B
+12
+0i
+1^
+0U
+1_
+1i
+0i
+#500000
+0*
+0D
+0E
+13
+#750000
+1*
+1D
+1E
+03
+0j
+1`
+0B
+1>
+02
+1/
+#1000000

@@ -1,0 +1,83 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Yo\Desktop\TEST\PARTEA
+Eblock1
+Z1 w1668184832
+Z2 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
+Z3 DPx10 cycloneiii 20 cycloneiii_atom_pack 0 22 n^46VOjinLK5_01fgQc6Z0
+Z4 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
+Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z7 DPx10 cycloneiii 21 cycloneiii_components 0 22 VeH8af>S`B?U[[D6_Khe@0
+Z8 dC:\Users\Yo\Desktop\TEST\PARTEA
+Z9 8PARTEA_7_1200mv_85c_slow.vho
+Z10 FPARTEA_7_1200mv_85c_slow.vho
+l0
+L34
+VkZKTilXi8[Z@QH^ULzm<m0
+Z11 OV;C;10.1d;51
+31
+Z12 !s108 1668184885.282000
+Z13 !s90 -reportprogress|300|-93|-work|work|PARTEA_7_1200mv_85c_slow.vho|
+Z14 !s107 PARTEA_7_1200mv_85c_slow.vho|
+Z15 o-93 -work work -O0
+Z16 tExplicit 1
+!s100 PfYnK2GD0Zeh]fK]fF_Z53
+!i10b 1
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 6 block1 0 22 kZKTilXi8[Z@QH^ULzm<m0
+l67
+L48
+VLFIGO6KjeX;bJD^m[<O^]2
+R11
+31
+R12
+R13
+R14
+R15
+R16
+!s100 aLZHCbZ@GbMCEi<4ZI8G81
+!i10b 1
+Epartea1_testbench
+Z17 w1668182143
+R5
+R6
+R8
+Z18 8C:/Users/Yo/Desktop/TEST/PARTEA/PARTEA1_testbench.vhd
+Z19 FC:/Users/Yo/Desktop/TEST/PARTEA/PARTEA1_testbench.vhd
+l0
+L3
+VP0U_[Sz2G4oA;MDCfVHOD2
+!s100 _9P9h5izQZ[TM9E@6NNMf2
+R11
+31
+!i10b 1
+Z20 !s108 1668184885.641000
+Z21 !s90 -reportprogress|300|-93|-work|work|C:/Users/Yo/Desktop/TEST/PARTEA/PARTEA1_testbench.vhd|
+Z22 !s107 C:/Users/Yo/Desktop/TEST/PARTEA/PARTEA1_testbench.vhd|
+R15
+R16
+Abehavior
+R5
+R6
+DEx4 work 17 partea1_testbench 0 22 P0U_[Sz2G4oA;MDCfVHOD2
+l18
+L5
+V`<IPhXHOVP062EdX2ZoZl3
+!s100 KfXC7PZoZn4M86QYj9FoP2
+R11
+31
+!i10b 1
+R20
+R21
+R22
+R15
+R16

@@ -1,0 +1,23 @@
+|PARTED2
+clk => state~4.DATAIN
+input => Selector1.IN3
+input => Selector2.IN3
+input => state.DATAA
+input => Selector3.IN3
+input => Selector4.IN3
+input => Selector5.IN3
+input => Selector6.IN3
+input => Selector3.IN2
+input => Selector4.IN2
+input => Selector5.IN2
+input => Selector6.IN2
+input => Selector0.IN2
+input => Selector1.IN2
+input => Selector2.IN2
+reset => state~6.DATAIN
+output[0] <= Selector6.DB_MAX_OUTPUT_PORT_TYPE
+output[1] <= Selector5.DB_MAX_OUTPUT_PORT_TYPE
+output[2] <= Selector4.DB_MAX_OUTPUT_PORT_TYPE
+output[3] <= Selector3.DB_MAX_OUTPUT_PORT_TYPE
+
+

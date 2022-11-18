@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Yo/Desktop/TEST/PARTEA/PARTEA1_testbench.vhd
+source_file = 1, C:/Users/Yo/Desktop/TEST/PARTEA/PARTEA.vhd
+source_file = 1, C:/Users/Yo/Desktop/TEST/PARTEA/Waveform.vwf
+source_file = 1, C:/Users/Yo/Desktop/TEST/PARTEA/Waveform1.vwf
+source_file = 1, C:/Users/Yo/Desktop/TEST/PARTEA/Block1.bdf
+source_file = 1, C:/Users/Yo/Desktop/TEST/PARTEA/db/PARTEA.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = Block1
+instance = comp, \OUT~output\, OUT~output, Block1, 1
+instance = comp, \SW2~input\, SW2~input, Block1, 1
+instance = comp, \SW1~input\, SW1~input, Block1, 1
